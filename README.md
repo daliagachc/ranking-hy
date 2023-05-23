@@ -1,6 +1,7 @@
 code used for the NPF ranking method manuscript
 
-- nbs contains all the code 
+## some brief info about the folders 
+- nbs - contains all the code 
 - mod - functions used many times 
 - figs - treated figures 
 - data - data folder which is missing in this repository but can be retrieved from https://filesender.funet.fi/?s=download&token=bd42ab68-1ea5-4098-970a-da1a2c689292
