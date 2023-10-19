@@ -4,8 +4,8 @@ code used for the NPF ranking method manuscript
 - nbs - contains all the code 
 - mod - functions used many times 
 - figs - treated figures 
-- data - data folder which is missing in this repository but can be retrieved from [https://filesender.funet.fi/?s=download&token=bd42ab68-1ea5-4098-970a-da1a2c689292](https://filesender.funet.fi/?s=download&token=7abf00d6-5dc0-4d7b-850a-cdb431d335b5)
-
+- data - data folder which is missing in this repository but can be retrieved from
+https://filesender.funet.fi/?s=download&token=33236fe5-ca41-4d7a-bca5-58a18e8bd28d
 in order to run all the code you might need to install the following packages:
 - https://github.com/daliagachc/SciencePlots
 - https://github.com/daliagachc/bnn-tools-repo
