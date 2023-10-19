@@ -5,8 +5,8 @@ code used for the NPF ranking method manuscript
 - mod - functions used many times 
 - figs - treated figures 
 - data - data folder which is missing in this repository but can be retrieved from
-https://filesender.funet.fi/?s=download&token=33236fe5-ca41-4d7a-bca5-58a18e8bd28d
-in order to run all the code you might need to install the following packages:
+https://filesender.funet.fi/?s=download&token=33236fe5-ca41-4d7a-bca5-58a18e8bd28d  
+### in order to run all the code you might need to install the following packages:
 - https://github.com/daliagachc/SciencePlots
 - https://github.com/daliagachc/bnn-tools-repo
 - https://github.com/daliagachc/uscit
